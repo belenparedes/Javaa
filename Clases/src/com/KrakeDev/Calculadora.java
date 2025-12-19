@@ -1,6 +1,8 @@
 package com.KrakeDev;
 
 public class Calculadora {
+
+	
 	public int sumar(int valor1, int valor2) {
 		int resultado;// declarando variable
 		resultado = valor1 + valor2;
