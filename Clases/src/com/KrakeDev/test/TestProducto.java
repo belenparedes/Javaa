@@ -1,4 +1,6 @@
-package com.KrakeDev;
+package com.KrakeDev.test;
+
+import com.KrakeDev.Producto;
 
 public class TestProducto {
 
